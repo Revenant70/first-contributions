@@ -1551,4 +1551,5 @@ Shrajan Jain
 - [northernbelle87](https://github.com/northernbelle87)
 - [Sujal Tangde] (https://github.com/sujaltangde/)
 - [Andres Ponciano] (https://github.com/AndresPonciano)
+- [Jackson McGillivary] (https://github.com/Revenant70)
 - <!-- prettier-ignore-end -->
